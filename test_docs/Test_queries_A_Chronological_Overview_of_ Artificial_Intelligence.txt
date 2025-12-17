@@ -1,0 +1,41 @@
+### Text
+
+1. "When was the field of Artificial Intelligence officially founded?"
+Expected answer: Dartmouth Workshop, 1956.
+
+2. "What caused the first AI winter?"
+Expected answer: Lighthill report + reduced government funding in 1973.
+
+3. "How did ancient myths and early philosophers influence the origins of AI?"
+Expected answer: Myths of artificial beings + symbolic reasoning theories.
+
+4. "Why did investors withdraw support from AI research in the late 1980s?"
+Expected answer: Second AI winter due to unmet expectations.
+
+5. "How has big data contributed to modern AI progress?"
+Expected answer: Enabled large-scale machine learning in the 21st century.
+
+### Image
+
+1. "List the exact text content found in the retrieval sources."
+Expected answer: AI HISTORY, AI WINTER.
+
+2. "Transcribe exactly all the text content found in the document."
+Expected answer: Must contain the strings "AI HISTORY" and "AI WINTER".
+
+### Audio
+
+1. "When was the AI launch mentioned in the script?"
+Expected answer: 1956.
+
+2. "What challenge did AI survive after its launch, according to the text?"
+Expected answer: Two investment 'winters'.
+
+3. "What elements contributed to the 'birth' or origin of AI, besides the 1956 launch?"
+Expected answer: Ancient myths and bold dreams.
+
+4. "What key resource has caused AI to 'explode' recently?"
+Expected answer: Big Data.
+
+5. "How much economic value does AI currently generate?"
+Expected answer: Trillions in value.

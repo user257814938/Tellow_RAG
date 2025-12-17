@@ -1,0 +1,14 @@
+langchain==0.3.12
+langchain-openai==0.2.11
+# langchain-docling  <-- Removed to avoid version conflict
+lancedb
+langchain-community==0.3.12
+langchain-core==0.3.25
+python-dotenv
+openai
+docling
+streamlit
+watchdog
+openai-whisper
+setuptools-rust
+pydantic>=2.10.0

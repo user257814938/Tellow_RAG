@@ -1,0 +1,16 @@
+id,period_label,start_year,end_year,region,event_type,ai_activity_index,funding_index,num_ai_projects,num_research_papers,economic_value_trillion_usd,key_reference,notes
+1,Myths & Automata,-500,1800,Global,Cultural inspiration,1,0,0,0,0.0,"Myths, philosophy, early automata","Foundations in myths and symbolic views of reasoning, no formal AI field yet."
+2,Symbolic Cognition in Philosophy,1800,1940,Europe,Philosophical groundwork,5,1,0,3,0.0,"Logic, symbolic reasoning",Reasoning viewed as symbol manipulation; conceptual basis for later AI.
+3,Programmable Digital Computers,1940,1955,US & UK,Technological innovation,20,15,3,10,0.05,First programmable digital computers,"Computers capable of logical operations at high speed, enabling AI experimentation."
+4,Dartmouth Workshop,1956,1956,US,Field founding event,40,35,5,12,0.1,Dartmouth Workshop 1956,Formal launch of AI as a research field; strong optimism among pioneers.
+5,Early Symbolic AI Boom,1957,1969,US & Europe,Growth,60,55,25,120,0.2,Early symbolic programs,Rule-based systems and logic programs; optimism and growing funding.
+6,Pre-Winter Plateau,1970,1972,US & UK,Plateau,55,50,28,140,0.25,Limitations emerge,Limitations of symbolic approaches become visible; expectations questioned.
+7,First AI Winter,1973,1979,US & UK,AI winter,25,15,12,60,0.12,"Lighthill report, funding cuts",Lighthill report and government cuts lead to disillusionment and reduced funding.
+8,Japan Fifth Generation Initiative,1980,1985,Japan,National AI initiative,65,70,35,220,0.3,Fifth Generation Computer Systems,Ambitious national program revives global interest in AI and expert systems.
+9,Expert Systems Commercialization,1980,1987,"US, Europe, Japan",Commercial deployment,70,65,45,280,0.4,Expert systems in industry,"Expert systems deployed in finance, manufacturing, and diagnostics."
+10,Second AI Winter,1988,1995,Global,AI winter,30,25,18,130,0.18,Market collapse of expert systems,High expectations not met; maintenance costs and brittleness drive investors away.
+11,Statistical ML Foundations,1996,2005,Global,Methodological shift,55,45,60,500,0.35,"Statistical learning, SVMs",Shift from symbolic systems to data-driven statistical machine learning.
+12,Big Data & GPU Acceleration,2006,2011,Global,Infrastructure revolution,70,65,120,1200,0.8,Big data & parallel computing,Explosion of data and computing power enables large-scale ML and deep learning.
+13,Deep Learning Breakthroughs,2012,2016,Global,Breakthrough,85,80,220,3000,1.5,"ImageNet, neural networks","Deep neural networks achieve state-of-the-art results in vision, speech, and NLP."
+14,AI at Scale in Industry,2017,2020,Global,Industrial adoption,92,90,450,7000,3.0,AI in production systems,"Large-scale deployment across sectors: e-commerce, logistics, healthcare, finance."
+15,Frontier Foundation Models,2021,2025,Global,Foundation models era,98,97,800,15000,4.5,Large language models & generative AI,McKinsey estimates $3.5–$5.8T yearly value; generative AI reshapes workflows.
